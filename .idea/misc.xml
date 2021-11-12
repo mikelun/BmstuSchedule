@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Xiaomi/AndroidStudioProjects/main/app/src/main/res/drawable/ic_alarm_clock.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/Xiaomi/AndroidStudioProjects/main/app/src/main/res/drawable/ic_arrow_square_right.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Xiaomi/AndroidStudioProjects/main/app/src/main/res/drawable/ic_calendar_alt.xml" value="0.175" />
+        <entry key="..\:/Users/Xiaomi/AndroidStudioProjects/main/app/src/main/res/drawable/ic_home.xml" value="0.175" />
+        <entry key="..\:/Users/Xiaomi/AndroidStudioProjects/main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.175" />
+        <entry key="..\:/Users/Xiaomi/AndroidStudioProjects/main/app/src/main/res/drawable/ic_plus_rectangle.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/Xiaomi/AndroidStudioProjects/main/app/src/main/res/drawable/ic_task_list.xml" value="0.175" />
+        <entry key="..\:/Users/Xiaomi/AndroidStudioProjects/main/app/src/main/res/drawable/ic_triangle_danger.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Xiaomi/AndroidStudioProjects/main/app/src/main/res/drawable/ic_user_square.xml" value="0.175" />
+        <entry key="..\:/Users/Xiaomi/AndroidStudioProjects/main/app/src/main/res/layout/activity_main.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/Xiaomi/AndroidStudioProjects/main/app/src/main/res/layout/fragment_blank.xml" value="0.14375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
